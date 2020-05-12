@@ -10,11 +10,23 @@ To get started with Frontity you will need:
 
 ### 1. WordPress (REST API)
 
-Frontity uses the data provided by a WordPress REST-API, so first you will need a WordPress installation. If the [version of your WordPress is equal or higher than 4.4](https://wordpress.org/support/wordpress-version/version-4-4/#for-developers) or if you're using [wordpress.com](https://wordpress.com/), you should be good to go.
+Frontity uses the data provided by a WordPress REST-API, so first you will need a WordPress installation. If the [version of your WordPress is equal or higher than 4.4](https://wordpress.org/support/wordpress-version/version-4-4/#for-developers) or if you're using [wordpress.com](https://wordpress.com/), your REST API will automatically available.
 
 However, when you spin up your first Frontity project you will initially be connected to our test site so you won't be without content when you first try Frontity.
 
-You can use a Wordpress installation hosted locally (we recommend you [local by flywheel](https://localwp.com/)) or in a web-server ()
+You can connect your Frontity project to WordPress installed locally (using [local by flywheel](https://localwp.com/) for example) or to a WordPress To work locally you can use a 
+
+
+##### REST API
+
+What is REST API? It's just 
+
+To check that the WordPress REST-API is working you can type one of the following into your browser's address bar. You should get a lot of complicated looking stuff in your browser. Don't worry, this is JSON and Frontity is very happy with this.
+
+
+
+
+
 
 
 
