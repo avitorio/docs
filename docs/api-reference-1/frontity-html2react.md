@@ -105,7 +105,7 @@ const image = {
   // We can add a priority so it executes before or after other processors.
   priority: 10,
 
-  // Only process the node it if it's an image.
+  // Only process the node if it's an image.
   test: ({ node }) => node.component === "img",
 
   processor: ({ node }) => {
